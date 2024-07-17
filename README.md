@@ -15,7 +15,6 @@ A list of awesome Generative UI and adjacent tools
 - [openv0](https://www.openv0.com)
 - [Magic Patterns](https://www.magicpatterns.com/)
 - [Dewhale](https://dewhale.pages.dev/)
-- 
 
 ## App Builders
 
